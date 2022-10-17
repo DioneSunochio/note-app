@@ -1,0 +1,5 @@
+Mon Oct 17 2022 06:03:02 GMT-0300 (Horário Padrão de Brasília)	Status:404	Error: Wrong email or password.	POST	/auth/login	http://localhost:8000
+Mon Oct 17 2022 06:03:59 GMT-0300 (Horário Padrão de Brasília)	Status:400	Error: Please add all fields.	POST	/notes/create	http://localhost:8000
+Mon Oct 17 2022 06:04:40 GMT-0300 (Horário Padrão de Brasília)	Status:400	Error: Please add all fields.	POST	/notes/create	http://localhost:8000
+Mon Oct 17 2022 06:07:05 GMT-0300 (Horário Padrão de Brasília)	Status:400	Error: Please add all fields.	POST	/auth/login	http://localhost:8000
+Mon Oct 17 2022 06:12:59 GMT-0300 (Horário Padrão de Brasília)	Status:400	Error: Please add all fields.	POST	/auth/login	http://localhost:8000
