@@ -1,6 +1,6 @@
-#MERN PROJECT
+# MERN PROJECT
 
-##Funcionalidade.
+## Funcionalidade.
 
 ```
 CRUD
@@ -11,7 +11,7 @@ CRUD
 [x] Delete
 ```
 
-##Middlewares
+## Middlewares
 
 ```
 [x] EmmitEvent
